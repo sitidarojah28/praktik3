@@ -86,7 +86,7 @@ int main()
 }
 ![img](https://github.com/sitidarojah28/praktik3/blob/master/latihan2/hasilnya2.png)
 ![img](https://github.com/sitidarojah28/praktik3/blob/master/latihan2/hasilnya3.png)
-1[img](https://github.com/sitidarojah28/praktik3/blob/master/latihan2/hasilnya4.png)
+![img](https://github.com/sitidarojah28/praktik3/blob/master/latihan2/hasilnya4.png)
 
 latihan3
 -mendeklarasikan variable a, b dan c
